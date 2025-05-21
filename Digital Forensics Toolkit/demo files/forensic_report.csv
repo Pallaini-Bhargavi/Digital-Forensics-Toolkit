@@ -1,0 +1,7 @@
+Sl.No     ,Filename                      ,Suspicious     
+1         ,benign1.txt                   ,No             
+2         ,benign2.txt                   ,No             
+3         ,forensic_report.csv           ,No             
+4         ,suspicious1.bin               ,Yes            
+5         ,suspicious2.bin               ,Yes            
+6         ,suspicious3.bin               ,Yes            
