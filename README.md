@@ -71,8 +71,3 @@ Output report will be saved as forensic_report.csv
 # Explanation
 
 The tool reads each file in binary mode, calculates entropy, extracts features, and uses a pre-trained Random Forest model to classify files as suspicious. The results are stored in a clean CSV report for forensic usage.
-
-# Author
-
-Bhargavi Pallaini
-Digital Forensics Toolkit (GitHub Project)
