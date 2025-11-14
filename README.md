@@ -52,18 +52,18 @@ It provides a simple GUI to scan files or entire folders and generates a detaile
 ---
 
 ## 📂 Project Structure
- Digital Forensics Toolkit/
- │── demo files/
- │ ├── benign1.txt
- │ ├── benign2.txt
- │ ├── suspicious1.bin
- │ ├── suspicious2.bin
- │ ├── suspicious3.bin
- │ └── forensic_report.csv
- │
- │── model.py
- │── random_forest_model.joblib
- │── README.md
+Digital Forensics Toolkit/
+│── demo files/
+│   ├── benign1.txt
+│   ├── benign2.txt
+│   ├── suspicious1.bin
+│   ├── suspicious2.bin
+│   ├── suspicious3.bin
+│   └── forensic_report.csv
+│
+│── model.py
+│── random_forest_model.joblib
+│── README.md
 
 
 ---
