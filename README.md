@@ -54,8 +54,8 @@ It provides a simple GUI to scan files or entire folders and generates a detaile
 
 ## 🚀 How to Run
 
-### 1️⃣ Install dependencies
-```bash
+### Install dependencies
+
 pip install scikit-learn joblib
 # Run the Toolkit
 python model.py
@@ -76,8 +76,3 @@ The tool reads each file in binary mode, calculates entropy, extracts features, 
 
 Bhargavi Pallaini
 Digital Forensics Toolkit (GitHub Project)
-
-⭐ Contribute
-
-Pull requests are welcome!
-If you find an issue, feel free to open one on GitHub.
